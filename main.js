@@ -121,10 +121,7 @@
         }
         function fclear() {
             location.reload()
-            // number=""
-            // operation.innerHTML=""
-            // numbers=[]
-            // var interval = setInterval(showText, 100)
+            
         }
 
         plus.addEventListener('click', fplus)
@@ -149,17 +146,3 @@
         dot.addEventListener('click', fdot)
         clear.addEventListener('click', fclear)
         squared.addEventListener('click', fsquared)
-
-
-
-
-
-
-
-
-
-
-        // setTimeout(f9, 2000)
-        // setTimeout(fminus, 3000)
-        // setTimeout(f4, 4000)
-        // setTimeout(fplus, 5000)

@@ -1,37 +1,4 @@
-/* #calculator {
-    position: absolute;
-    width: 400px;
-    height: 600px; */
-    /* display: flex;
 
-}
-#screen {
-    position: relative;
-    top: 0px;
-    width: 400px;
-    height: 200px;
-    background-color: red;
-}
-.number {
-    height: 100px;
-    width: 100px;
-    background-color: blue;
-    position: relative;
-    border: solid black;
-    
-}
-#one {
-    left: 0px;
-    top: 6px;
-}
-#two {
-    left: 110px;
-    top: -100px;
-}
-#thre {
-    top: -205px;
-    left: 220px;
-} */
 body {
     background: linear-gradient(to right, #f065d9, #1ef8c9);
 }
@@ -74,9 +41,7 @@ button {
     bottom: 20px;
     width: 95%;
 }
-/* #btnclear {
-    width: 115px;
-} */
+
 #all {
     width: 500px;
     height: 95vh;
