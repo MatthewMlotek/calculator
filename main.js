@@ -25,7 +25,7 @@
         var score = document.getElementById("score")
         var operation = document.getElementById("operation")
 
-
+        //   /|\    /|\   referenctions to html elements
 
         var numbers = []
         var number = ("")
@@ -86,7 +86,7 @@
         }
 
 
-
+        // \|/  \|/  what buttons have to do
 
         function f1() {
 
@@ -123,6 +123,9 @@
             location.reload()
             
         }
+
+
+        // \|/  \|/  event listeners
 
         plus.addEventListener('click', fplus)
         minus.addEventListener('click', fminus)
